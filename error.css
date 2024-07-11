@@ -1,0 +1,42 @@
+.main{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 430px;
+    height: 932px;
+    background-color: black;
+}
+
+.pop{
+    position: absolute;
+    background-color: #0A111A;
+    width: 335px;
+    height: 182px;
+    left: 48px;
+    top: 375px;
+}
+.msg{
+    position: absolute;
+    left: 122px;
+    top: 416px;
+    color: white;
+    font-family: Poppins;
+    font-size: 16px;
+
+}
+.back{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    color: white;
+    left: 125px;
+    top: 466px;
+    font-family: 'Poppins';
+    text-align: center;
+    background-color: #0A111A;
+    border: 1px solid white;
+    width: 179px;
+    height: 50px;
+}

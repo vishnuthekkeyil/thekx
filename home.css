@@ -1,0 +1,215 @@
+.main{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-color: black;
+    width: 430px;
+    height: 1386px;
+}
+
+@font-face {
+    font-family: myFont;
+    src: url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+}
+
+
+
+
+.thekx{
+    position: absolute;
+    left: 114px;
+    top: 85px;
+    
+    
+}
+.captn{
+    position: absolute;
+    font-size: 13px;
+    color: white;
+    left: 102px;
+    top: 138px;
+    width: 226px;
+    font-family: 'Poppins';
+    text-align: center;
+}
+.bg1{
+    position: absolute;
+    background-color: #0A111A;
+    left: 0px;
+    top: 0px;
+    width: 430px;
+    height: 247px;
+}
+
+.dfh{
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    left: 34px;
+    top: 337px;
+    /* width: 226px; */
+    font-family: 'Poppins';
+    text-align: center;
+
+}
+
+.sfx{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    color: white;
+    left: 35px;
+    top: 393px;
+    font-family: 'Poppins';
+    text-align: center;
+    background-color: black;
+    border: 1px solid white;
+    width: 360px;
+    height: 56px;  
+}
+
+.ovly{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    color: white;
+    left: 35px;
+    top: 466px;
+    font-family: 'Poppins';
+    text-align: center;
+    background-color: black;
+    border: 1px solid white;
+    width: 360px;
+    height: 56px;
+}
+.fx{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    color: white;
+    left: 35px;
+    top: 539px;
+    font-family: 'Poppins';
+    text-align: center;
+    background-color: black;
+    border: 1px solid white;
+    width: 360px;
+    height: 56px; 
+}
+
+
+
+.bckgrnd{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    color: white;
+    left: 35px;
+    top: 612px;
+    font-family: 'Poppins';
+    text-align: center;
+    background-color: black;
+    border: 1px solid white;
+    width: 360px;
+    height: 56px; 
+}
+.lut{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    color: white;
+    left: 35px;
+    top: 685px;
+    font-family: 'Poppins';
+    text-align: center;
+    background-color: black;
+    border: 1px solid white;
+    width: 360px;
+    height: 56px; 
+}
+
+.lrn{
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    left: 34px;
+    top: 841px;
+    font-family: 'Poppins';
+    text-align: center;
+
+}
+
+.ytt{
+    position: absolute;
+    width: 329px;
+    height: 185px;
+    left: 50px;
+    top: 897px;
+}
+.wv{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    color: white;
+    left: 35px;
+    top: 1108px;
+    font-family: 'Poppins';
+    text-align: center;
+    background-color: black;
+    border: 1px solid white;
+    width: 360px;
+    height: 56px; 
+}
+
+.bg2{
+    position: absolute;
+    background-color: #0A111A;
+    left: 0px;
+    top: 1214px;
+    width: 430px;
+    height: 172px;
+}
+
+.gml{
+    position: absolute;
+    left: 125px;
+    top: 1312px;
+    font-family: 'Poppins';
+    color: white;
+    font-size: 14px;
+
+}
+
+.yt{
+    position: absolute;
+    left: 145px;
+    top: 1270px;
+    width: 27px;
+    height: 19.8px;
+}
+.inst{
+    position: absolute;
+    left: 205px;
+    top: 1268px;
+    width: 25px;
+    height: 25px;
+}
+.tgm{
+    position: absolute;
+    left: 260px;
+    top: 1266px;
+    width: 24px;
+    height: 24px;
+}
